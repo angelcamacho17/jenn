@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PollsApplication",
+            "request": "launch",
+            "mainClass": "com.example.server.PollsApplication",
+            "projectName": "polls"
+        }
+    ]
+}
